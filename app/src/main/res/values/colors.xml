@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#006064</color>
+    <color name="colorAccent">#00838F</color>
+    <color name="bg">#E0F7FA</color>
+    <color name="bt_nv_color">#006064</color>
+    <color name="colorPrimaryDark">#006064</color>
+    <color name="basic_blue">#006064</color>
+
+
+</resources>
